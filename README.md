@@ -3,9 +3,11 @@ Link to the challenge: https://docs.google.com/document/d/1vna0api0Qok6_BzHuweV6
 Programmming Language: Java
 
 Layout:
+
 There are 4 features total: Random Image, Add Image, Like Image, and Dislike Image
 
 Purpose:
+
 Random Image - The Random Image button will generate a random image out of 5 images total.
 
 Add Image - This will pop up a dialog that will allow you to seach through your computer's directories and select a JPG or PNG type image file.
