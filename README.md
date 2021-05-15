@@ -1,4 +1,4 @@
-#Read Me for my project
+Link to the challenge: https://docs.google.com/document/d/1vna0api0Qok6_BzHuweV6jwHC5bnOX6hndg0tPPY9Nw/edit
 
 Programmming Language: Java
 
