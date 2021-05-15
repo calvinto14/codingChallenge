@@ -1,6 +1,7 @@
 Link to the challenge: https://docs.google.com/document/d/1vna0api0Qok6_BzHuweV6jwHC5bnOX6hndg0tPPY9Nw/edit
 
 **Please download the .zip file to view the project folder called ImageRepo**
+
 Programmming Language: Java
 
 
